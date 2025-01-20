@@ -1,0 +1,160 @@
+body
+{
+    width: 80vw;
+    height: 100vh;
+    display: flex;
+    margin-left: 50%;
+    margin-right: 50%;
+    transform: translate(-50%,0);
+}
+.body
+{
+    width: fit-content;
+    height: 100%;
+    border: 2px solid red;
+
+}
+.main1
+{
+    width: 100%;
+    padding: 0;
+    margin-top: 0;
+    display: flex;
+}
+.side
+{
+    height: 100%;
+    width: 15rem;
+    background-color: #f1991d;
+}
+.name
+{
+    color: #f1991d;
+}
+.p
+{
+    color: #f1991d;
+}
+.scan
+{
+    width: 100%;
+    height: 30%;
+    background-color: black;
+}
+.qr
+{
+    background-image: url("My_Gallery.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 35%;
+    width: 100%;
+    height: 50%;
+    word-spacing: 5px;
+}
+.logo
+{
+ 
+    padding: 0;
+    margin-top: 7vw;
+    height: auto;
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+    border: 2px solid black;
+    background-color: white;
+}
+.logo>img
+{
+    width: 100%;
+    object-fit: cover;
+}
+.main
+{
+    width: 60rem;
+}
+.cer{
+}
+.reference
+{
+    text-align: center;
+    display: flex;
+    line-height: 150%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+.dino
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blank
+{
+    width: 100%;
+    border: 1px solid black;
+}
+.date
+{
+    width: fit-content;
+    height: auto;
+}
+.bottom
+{
+    text-align: center;
+}
+.logo1
+{
+    background-image: url("a-book-cover-with-the-text-mahabharat-in-bold-gold-6eNHF3YJQVqoihxZU733Ww-Bv2o-wm2QRiY1mpD8Id8JA.jpeg");
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    width: 7rem;
+    border-radius: 50%;
+}
+.signature
+{
+    width: fit-content;
+    height: auto;
+}
+.book
+{
+    background-image: url("Untitled-1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    height: 7rem;
+    width: 7rem;
+}
+.main1>img
+{
+    position: absolute;
+    top: 0;
+    right: 10%;
+    width: 30rem;
+    height: 30rem;
+    padding: 0;
+}
+.footer1
+{
+    background-color: black;
+    border-top: 5px solid #f1991d;
+    color: white;
+}
+.footer
+{
+    width: fit-content;
+    line-height: 0.5rem;
+}
+.rank-letter
+{
+    border: 1px solid grey;
+    width: fit-content;
+    height: fit-content;
+}
